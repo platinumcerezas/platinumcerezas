@@ -1,4 +1,6 @@
 # THE GATES OF HELL
+<sub> small flicker/flash/bright colours warning for the end of this page ! blinkies sure do blink ...
+
 ![Tumblr_l_554518768505132](https://github.com/user-attachments/assets/82bcf9f1-b8af-4a67-868f-ad504cbffb92)
 
 <sub> my only coding experience comes from html ... javascript i am not familiar with your game . i just want a pretty page for ponytown </sub>
