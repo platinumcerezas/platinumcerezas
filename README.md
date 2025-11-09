@@ -26,7 +26,7 @@
 ![a6](https://github.com/user-attachments/assets/08ebf9fd-4e31-4093-a245-4fbba3d37ef7)
 ![z38](https://github.com/user-attachments/assets/5a2fd3ba-624c-45ca-ad3a-954dc4ae3963)
 <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/17e7afb1-896a-4075-a3a4-32221af59976" />
-![z14](https://github.com/user-attachments/assets/504d061c-04f9-4e82-8a8c-50cff20d9aa2)
+<img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/e5d04cc8-acdb-4425-8e4d-55918120f0b8" />
 ![b40](https://github.com/user-attachments/assets/0f2c447b-4c7b-4835-8fc7-a49cb1a6c5c5)
 ![alicemadnessreturns](https://github.com/user-attachments/assets/e5bdd2bc-edb8-41bb-838c-4ac051013b18)
 ![skyrim](https://github.com/user-attachments/assets/84e7280e-8422-4ce6-98ce-673846bdb797)
