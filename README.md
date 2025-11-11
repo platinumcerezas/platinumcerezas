@@ -1,6 +1,17 @@
 # THE GATES OF HELL
 <sub> small flicker/flash/bright colours warning for the end of this page ! blinkies sure do blink ...
 
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/5664026f-1b06-464f-a87c-de9a5a72fa1b" />
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/7ba7a6b9-5990-4581-89d0-9d9d1bcbc3b8" />
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/3c18ecf4-a83e-44e0-b2bf-900519652f1a" />
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/a0f797a1-d455-4c62-9d39-9960cfd99973" />
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/0398e250-02fd-4e48-9d0c-eda938006b2f" />
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/03bf42fb-cdb6-40bd-bd32-db170eba6c97" />
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/ffc6e3ef-d662-4b94-a110-2db01a6ddd73" />
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/ac2f00ac-8c84-49f5-86c8-f87e8bdfb4e8" />
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/ac974375-fe76-4171-9e9a-bc693ccf307a" />
+
+
 ![Tumblr_l_554518768505132](https://github.com/user-attachments/assets/82bcf9f1-b8af-4a67-868f-ad504cbffb92)
 
 <sub> my only coding experience comes from html ... javascript i am not familiar with your game . i just want a pretty page for ponytown </sub>
